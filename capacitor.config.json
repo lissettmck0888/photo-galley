@@ -1,0 +1,16 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "photo-gallery",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "server": {
+    "url": "https://192.168.0.5:8101"
+  }
+}
